@@ -4,14 +4,15 @@
 [![NVIDIA Nemotron](https://img.shields.io/badge/NVIDIA%20Nemotron-3.5%20Lightning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com)
 [![Tavily Search API](https://img.shields.io/badge/Tavily%20AI%20Search-Advanced%20Depth-F59E0B?style=for-the-badge&logo=google&logoColor=white)](https://tavily.com)
 [![Cryptographic Provenance](https://img.shields.io/badge/Forensic%20Hash-SHA--256%20UTC-8B5CF6?style=for-the-badge&logo=gnupg&logoColor=white)](#forensic-integrity--sha-256-cryptographic-provenance)
-[![Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel%20Production-000000?style=for-the-badge&logo=vercel&logoColor=white)](#production-deployment)
+[![Vercel Live App](https://img.shields.io/badge/Live%20Demo-deepaudit--ai.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deepaudit-ai.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-3B82F6?style=for-the-badge)](LICENSE)
 
 > **Built for the Nebius x NVIDIA Global AI Hackathon (2026)**  
 > **Track**: Best Apps and Agents Track  
 > **Bonus Track**: $3,000 Tavily AI Search Bonus  
 > **Author**: [fokrulanthro16-eng](https://github.com/fokrulanthro16-eng)  
-> **Target Repository**: [fokrulanthro16-eng/DeepAudit-AI](https://github.com/fokrulanthro16-eng/DeepAudit-AI)  
+> **Live Web Application**: [https://deepaudit-ai.vercel.app](https://deepaudit-ai.vercel.app)  
+> **Target Repository**: [https://github.com/fokrulanthro16-eng/DeepAudit-AI](https://github.com/fokrulanthro16-eng/DeepAudit-AI)  
 
 ---
 
